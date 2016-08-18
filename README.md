@@ -1,7 +1,7 @@
 # SortTabView
 Android 下带有排序功能的Tab标签
 
-![image](https://github.com/githubwing/MVPHelper/raw/master/perview.gif)
+![image](https://github.com/githubwing/SortTabView/raw/master/perview.gif)
 
 # License
 
